@@ -58,7 +58,11 @@ let pokemonRepository = (function () {
     }
 }) ();
 
+
+//forEach function
 pokemonRepository.getAll.forEach(poke);
+
+
 
 
 // code that was here from previous exercises that I didnt know if I needed to delete LOL
@@ -82,7 +86,6 @@ pokemonRepository.getAll.forEach(poke);
 //printArrayDetails(pokemonList);
 
 
-//forEach function
 
 
 
